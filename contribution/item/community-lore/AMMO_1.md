@@ -1,1 +1,1 @@
-No one truly knows how the Energy Cells are mass produced, but what is known, is that they take skill, parts to ammunition, and effort to make one yourself.
+Ninguém sabe realmente como as células de energia são produzidas em massa, mas o que se sabe é que elas precisam de habilidade, peças para munição e esforço para você mesmo fazer uma.
