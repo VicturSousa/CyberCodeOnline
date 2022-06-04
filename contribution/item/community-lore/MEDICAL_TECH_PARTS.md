@@ -1,1 +1,1 @@
-You were never a tech person, so when Liam at `the terminal` says it is what pain away comes from, you shrug and move on. 
+Você nunca foi uma pessoa da tecnologia, então quando o Liam `no terminal` diz de onde vem a dor, você encolhe os ombros e segue em frente.
