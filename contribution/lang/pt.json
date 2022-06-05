@@ -60,7 +60,7 @@
  	 	 	},
  	 	 	"updateImage": {
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "Atualizar imagem da gangue",
+ 	 	 	 	 	"trans": "Atualizar imagem da Gangue",
  	 	 	 	 	"eng": "Update Gang Image"
  	 	 	 	}
  	 	 	},
@@ -69,7 +69,7 @@
  	 	 	 	"eng": "Gang Level"
  	 	 	},
  	 	 	"resource": {
- 	 	 	 	"trans": "Recursos",
+ 	 	 	 	"trans": "Recurso",
  	 	 	 	"eng": "Resource"
  	 	 	},
  	 	 	"funding": {
@@ -88,11 +88,11 @@
  	 	 	 	"vars": [
  	 	 	 	 	"nextUpkeepDate"
  	 	 	 	],
- 	 	 	 	"trans": "Data da proxima manutenção: ${nextUpkeepDate}",
+ 	 	 	 	"trans": "Data da próxima manutenção: ${nextUpkeepDate}",
  	 	 	 	"eng": "Next upkeep Date: ${nextUpkeepDate}"
  	 	 	},
  	 	 	"insufficientError": {
- 	 	 	 	"trans": "Recursos críticos",
+ 	 	 	 	"trans": "Recurso crítico",
  	 	 	 	"eng": "resource critical"
  	 	 	},
  	 	 	"insufficientFound": {
@@ -132,12 +132,12 @@
  	 	 	 	 	 	"eng": "Decryption successful"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "em processamento",
+ 	 	 	 	 	 	"trans": "processando",
  	 	 	 	 	 	"eng": "processing"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Você encontrou uma caixa de saque bloqueada com teclado de cor, você deve ser capaz de desbloqueá-lo com a seqüência correta de cores.",
+ 	 	 	 	 	"trans": "Você encontrou uma caixa de saque bloqueada com teclado de cor, você deve ser capaz de desbloqueá-lo com a sequência correta de cores.",
  	 	 	 	 	"eng": "You found a locked loot box with color keypad, you should be able to unlock it with the correct sequence of colors."
  	 	 	 	},
  	 	 	 	"progress": {
@@ -174,7 +174,7 @@
  	 	},
  	 	"supportUkraine": {
  	 	 	"description": {
- 	 	 	 	"trans": "Pessoas da Ucrânia, Rússia e todo o mundo estão sofrendo porque a ambição de um homem. \\ N Faça amor exploração, não guerra.",
+ 	 	 	 	"trans": "Pessoas da Ucrânia, Rússia e todo o mundo estão sofrendo por causa da ambição de um homem. \\ Faça exploração de amor, não guerra.",
  	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war."
  	 	 	}
  	 	},
@@ -226,29 +226,29 @@
  	 	 	 	"vars": [
  	 	 	 	 	"upgradeToSlot"
  	 	 	 	],
- 	 	 	 	"trans": "Aumentar a quantidade máxima de itens que você pode armazenar em seu Cofre para ${upgradeToSlot}",
+ 	 	 	 	"trans": "Aumentar a quantidade máxima de itens que você pode armazenar em seu cofre para ${upgradeToSlot}",
  	 	 	 	"eng": "Increase the max amount of items you can store in vault to ${upgradeToSlot}"
  	 	 	},
  	 	 	"modal": {
  	 	 	 	"selectDepositItem": {
- 	 	 	 	 	"trans": "Quantos você gostaria de colocar no cofre?",
+ 	 	 	 	 	"trans": "Quanto você gostaria de colocar no cofre?",
  	 	 	 	 	"eng": "How many would you like to put in the vault?"
  	 	 	 	},
  	 	 	 	"selectWithdrawItem": {
- 	 	 	 	 	"trans": "Quantos você gostaria de se retirar do banco?",
+ 	 	 	 	 	"trans": "Quanto você gostaria de retirar do banco?",
  	 	 	 	 	"eng": "How many would you like to withdraw from the bank?"
  	 	 	 	},
  	 	 	 	"selectDeposit": {
- 	 	 	 	 	"trans": "Quanto gostaria de depositar?",
+ 	 	 	 	 	"trans": "Quanto você gostaria de depositar?",
  	 	 	 	 	"eng": "How much would you like to deposit?"
  	 	 	 	},
  	 	 	 	"selectWithdraw": {
- 	 	 	 	 	"trans": "Quanto gostaria de retirar?",
+ 	 	 	 	 	"trans": "Quanto você gostaria de retirar?",
  	 	 	 	 	"eng": "How much would you like to withdraw?"
  	 	 	 	}
  	 	 	},
  	 	 	"noBalance": {
- 	 	 	 	"trans": "Não é possivel retirar, sem saldo suficiente.",
+ 	 	 	 	"trans": "Você não pode sacar quando não tiver saldo.",
  	 	 	 	"eng": "You can't withdraw when you have no balance."
  	 	 	}
  	 	},
@@ -276,7 +276,7 @@
  	 	},
  	 	"generalCaptcha": {
  	 	 	"story": {
- 	 	 	 	"trans": "Encontrou um antigo cofre trancado, parece haver um post-it com algum texto escrito nele.",
+ 	 	 	 	"trans": "Você encontrou um antigo cofre trancado, parece haver um poste com algum texto escrito nele.",
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
@@ -305,7 +305,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"playerName"
  	 	 	 	],
- 	 	 	 	"trans": "Respondendo a ${playerName}",
+ 	 	 	 	"trans": "Respondendo para ${playerName}",
  	 	 	 	"eng": "Replying to ${playerName}"
  	 	 	},
  	 	 	"linksNotAllowed": {
@@ -313,11 +313,11 @@
  	 	 	 	"eng": "Links are not allowed"
  	 	 	},
  	 	 	"spamBlock": {
- 	 	 	 	"trans": "Por favor, não envie uma mensagem sem sentido, os spams serão silenciados.",
+ 	 	 	 	"trans": "Por favor, não envie uma mensagem sem sentido, spams serão silenciados.",
  	 	 	 	"eng": "Please do not send meaningless message, spams will be muted."
  	 	 	},
  	 	 	"repeatBlock": {
- 	 	 	 	"trans": "Por favor, não envie a mesma mensagem repetidamente, os spams serão silenciados.",
+ 	 	 	 	"trans": "Por favor, não envie a mesma mensagem repetidamente, spams serão silenciados.",
  	 	 	 	"eng": "Please do not send the same message repeatedly, spams will be muted."
  	 	 	},
  	 	 	"shortChatBlock": {
@@ -328,7 +328,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"minLevel"
  	 	 	 	],
- 	 	 	 	"trans": "Você precisa ser pelo menos nível ${minLevel} para enviar mensagens de bate-papo",
+ 	 	 	 	"trans": "Você precisa ser pelo menos nível ${minLevel} para enviar mensagens no bate-papo",
  	 	 	 	"eng": "You need to be at least level ${minLevel} to send chat messages"
  	 	 	},
  	 	 	"chat": {
@@ -354,11 +354,11 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"name"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${name} está prestes a ficar em alguns segundos!",
+ 	 	 	 	 	"trans": "${name} está prestes a acabar em alguns segundos!",
  	 	 	 	 	"eng": "${name} is about to run out in a few seconds!"
  	 	 	 	},
  	 	 	 	"refresh": {
- 	 	 	 	 	"trans": "Atualize agora",
+ 	 	 	 	 	"trans": "Atualize Agora",
  	 	 	 	 	"eng": "Refresh Now"
  	 	 	 	}
  	 	 	}
